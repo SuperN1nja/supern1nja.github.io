@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+ 
 <html oncontextmenu="return false;" onkeypress="return false;" onkeydown="return false;" onkeyup="return false;">
 	<head>
 		<title>//:~Spade was here~://</title>
